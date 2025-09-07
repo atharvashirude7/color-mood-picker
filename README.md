@@ -3,6 +3,8 @@
 A simple and fun web app built with **HTML, CSS & JavaScript**.  
 Pick a color and get a random mood word that matches its vibe.
 
+![Color Mood Picker Screenshot](screenshot.png)
+
 **Live demo:** https://atharvashirude7.github.io/color-mood-picker/
 
 ## Features
